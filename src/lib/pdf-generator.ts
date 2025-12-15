@@ -43,6 +43,7 @@ export interface MedReport {
   treatment: string;
   prescriptions: string;
   veterinarian: string;
+  price?: number;
   followUpDate?: string;
   notes: string;
   createdAt: string;
@@ -398,6 +399,19 @@ export class PDFGenerator {
           this.pdf.setFontSize(7);
           this.pdf.text(noteLines, 25, yPosition);
           yPosition += noteLines.length * 2.8 + 1;
+        }
+
+        if (report.price) {
+          this.addText(t.cost, 20, yPosition, 7, {
+            isBold: true,
+            color: [100, 100, 100],
+          });
+          this.addText(`€${report.price.toFixed(2)}`, this.pageWidth - 20, yPosition, 7, {
+            isBold: true,
+            color: COLORS.primary,
+            align: "right",
+          });
+          yPosition += 3;
         }
 
         yPosition += 2;
