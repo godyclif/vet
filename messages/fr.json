@@ -1,0 +1,203 @@
+{
+  "Metadata": {
+    "title": "Universalis Dierenzorg - Soins Animaliers Complets",
+    "description": "Soins vétérinaires professionnels pour tous les animaux, y compris chiens, chats, oiseaux, reptiles et animaux exotiques aux Pays-Bas."
+  },
+  "Navigation": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "verify": "Vérifier Certificat",
+    "contact": "Contact",
+    "pricing": "Tarifs",
+    "faq": "FAQ"
+  },
+  "Hero": {
+    "title": "Soins Complets pour Tous Vos Animaux",
+    "subtitle": "Services vétérinaires professionnels pour chiens, chats, oiseaux, reptiles, animaux exotiques et toutes les créatures grandes et petites",
+    "cta": "Prendre Rendez-vous",
+    "secondaryCta": "Vérifier Certificat"
+  },
+  "Services": {
+    "title": "Nos Services",
+    "subtitle": "Soins complets pour chaque espèce",
+    "general": {
+      "title": "Consultations Générales",
+      "description": "Bilans de santé complets et soins préventifs pour tous types d'animaux"
+    },
+    "surgery": {
+      "title": "Interventions Chirurgicales",
+      "description": "Installations chirurgicales de pointe pour procédures routinières et complexes"
+    },
+    "dental": {
+      "title": "Soins Dentaires",
+      "description": "Nettoyage dentaire professionnel, extractions et entretien de la santé bucco-dentaire"
+    },
+    "vaccination": {
+      "title": "Vaccinations",
+      "description": "Programmes de vaccination complets adaptés à chaque espèce et mode de vie"
+    },
+    "exotic": {
+      "title": "Soins Animaux Exotiques",
+      "description": "Soins spécialisés pour reptiles, amphibiens, oiseaux et mammifères exotiques"
+    },
+    "emergency": {
+      "title": "Soins d'Urgence",
+      "description": "Services d'urgence 24h/24 pour situations médicales urgentes"
+    }
+  },
+  "About": {
+    "title": "À Propos d'Universalis Dierenzorg",
+    "subtitle": "Prendre soin de toutes les créatures depuis 2010",
+    "description": "Située au cœur des Pays-Bas, Universalis Dierenzorg est une clinique vétérinaire à service complet dédiée à fournir des soins exceptionnels pour tous les animaux. Notre équipe de vétérinaires expérimentés se spécialise dans le traitement des chiens, chats, oiseaux, reptiles, petits mammifères et animaux exotiques.",
+    "mission": "Notre mission est de fournir des soins vétérinaires compatissants et de haute qualité tout en éduquant les propriétaires d'animaux sur la santé et le bien-être animal.",
+    "values": {
+      "title": "Nos Valeurs",
+      "compassion": "Compassion pour chaque créature",
+      "excellence": "Excellence en médecine vétérinaire",
+      "education": "Éducation et prévention",
+      "innovation": "Innovation dans les soins animaliers"
+    }
+  },
+  "Contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Nous sommes là pour répondre à tous vos besoins en soins animaliers",
+    "form": {
+      "name": "Nom Complet",
+      "namePlaceholder": "Votre nom complet",
+      "email": "Adresse E-mail",
+      "emailPlaceholder": "vous@exemple.com",
+      "phone": "Numéro de Téléphone",
+      "phonePlaceholder": "+31 6 12345678",
+      "subject": "Sujet",
+      "subjectPlaceholder": "Comment pouvons-nous vous aider?",
+      "animalType": "Type d'Animal",
+      "selectAnimal": "Sélectionnez le type d'animal",
+      "dog": "Chien",
+      "cat": "Chat",
+      "bird": "Oiseau",
+      "reptile": "Reptile",
+      "exotic": "Animal Exotique",
+      "other": "Autre",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous de votre demande...",
+      "agree": "J'accepte les conditions et la politique de confidentialité",
+      "submit": "Envoyer le Message",
+      "submitting": "Envoi en cours...",
+      "success": "Merci! Votre message a été envoyé. Nous vous répondrons bientôt.",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "info": {
+      "address": "Adresse",
+      "addressValue": "Dierenplein 42, 1012 AB Amsterdam, Pays-Bas",
+      "phone": "Téléphone",
+      "phoneValue": "+31 20 123 4567",
+      "email": "E-mail",
+      "emailValue": "info@universalis-dierenzorg.nl",
+      "hours": "Heures d'Ouverture",
+      "hoursValue": "Lun-Ven: 8h00-18h00, Sam: 9h00-14h00"
+    }
+  },
+  "Verify": {
+    "title": "Vérifier le Certificat Vétérinaire",
+    "subtitle": "Entrez le numéro de certificat de votre animal pour consulter son historique médical complet",
+    "form": {
+      "certificateNumber": "Numéro de Certificat",
+      "placeholder": "Entrez le numéro de certificat (ex: VET-2024-001234)",
+      "submit": "Vérifier",
+      "searching": "Recherche..."
+    },
+    "results": {
+      "title": "Détails du Certificat",
+      "animalInfo": "Informations sur l'Animal",
+      "name": "Nom",
+      "species": "Espèce",
+      "breed": "Race",
+      "age": "Âge",
+      "weight": "Poids",
+      "owner": "Propriétaire",
+      "registrationDate": "Date d'Inscription",
+      "treatments": "Historique des Traitements",
+      "treatmentDate": "Date",
+      "treatmentType": "Traitement",
+      "treatmentNotes": "Notes",
+      "treatmentCost": "Coût",
+      "vaccines": "Registre des Vaccinations",
+      "vaccineName": "Vaccin",
+      "vaccineDate": "Date d'Administration",
+      "vaccineNextDue": "Prochaine Échéance",
+      "totalCosts": "Coûts Totaux",
+      "noResults": "Aucun dossier trouvé pour ce numéro de certificat. Veuillez vérifier le numéro et réessayer."
+    },
+    "pdf": {
+      "medicalReport": "Rapport Médical",
+      "professionalCare": "Soins Vétérinaires Professionnels",
+      "cert": "Certificat:",
+      "animalInfo": "INFORMATIONS SUR L'ANIMAL",
+      "ownerInfo": "INFORMATIONS DU PROPRIÉTAIRE",
+      "medicalReports": "RAPPORTS MÉDICAUX",
+      "vaccinations": "VACCINATIONS",
+      "treatments": "TRAITEMENTS",
+      "costSummary": "RÉSUMÉ DES COÛTS",
+      "name": "Nom:",
+      "speciesBreed": "Espèce / Race:",
+      "dateOfBirth": "Date de Naissance:",
+      "age": "Âge:",
+      "weight": "Poids:",
+      "email": "E-mail:",
+      "phone": "Téléphone:",
+      "report": "Rapport #",
+      "veterinarian": "Vétérinaire:",
+      "symptoms": "Symptômes:",
+      "diagnosis": "Diagnostic:",
+      "treatment": "Traitement:",
+      "prescriptions": "Prescriptions:",
+      "followUpDate": "Date de Suivi:",
+      "notes": "Notes:",
+      "administered": "Administré:",
+      "nextDue": "Prochaine Date:",
+      "cost": "Coût:",
+      "date": "Date:",
+      "totalTreatments": "Coût Total des Traitements:",
+      "totalVaccines": "Coût Total des Vaccins:",
+      "totalCost": "COÛT TOTAL:",
+      "pageOf": "Page"
+    }
+  },
+  "Testimonials": {
+    "title": "Ce Que Disent Nos Clients",
+    "subtitle": "Approuvé par les propriétaires d'animaux à travers les Pays-Bas"
+  },
+  "Pricing": {
+    "title": "Nos Tarifs",
+    "subtitle": "Tarification transparente pour des soins de qualité",
+    "consultation": "Consultation Générale",
+    "vaccination": "Forfait Vaccination",
+    "surgery": "Interventions Chirurgicales",
+    "dental": "Nettoyage Dentaire",
+    "emergency": "Visite d'Urgence",
+    "exotic": "Consultation Animal Exotique",
+    "from": "À partir de"
+  },
+  "FAQ": {
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Trouvez des réponses aux questions courantes sur nos services"
+  },
+  "Footer": {
+    "description": "Soins vétérinaires professionnels pour tous les animaux aux Pays-Bas. Chiens, chats, oiseaux, reptiles et animaux exotiques.",
+    "quickLinks": "Liens Rapides",
+    "contact": "Coordonnées",
+    "hours": "Heures d'Ouverture",
+    "copyright": "© 2024 Universalis Dierenzorg. Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation"
+  },
+  "Common": {
+    "learnMore": "En Savoir Plus",
+    "bookNow": "Réserver",
+    "callUs": "Appelez-Nous",
+    "currency": "€",
+    "years": "ans",
+    "kg": "kg"
+  }
+}

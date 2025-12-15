@@ -1,0 +1,203 @@
+{
+  "Metadata": {
+    "title": "Universalis Dierenzorg - Complete Dierenverzorging",
+    "description": "Professionele diergeneeskundige zorg voor alle dieren, waaronder honden, katten, vogels, reptielen en exotische huisdieren in Nederland."
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "Over Ons",
+    "services": "Diensten",
+    "verify": "Certificaat Verifiëren",
+    "contact": "Contact",
+    "pricing": "Prijzen",
+    "faq": "FAQ"
+  },
+  "Hero": {
+    "title": "Complete Zorg voor Al Uw Dieren",
+    "subtitle": "Professionele veterinaire diensten voor honden, katten, vogels, reptielen, exotische huisdieren en alle wezens groot en klein",
+    "cta": "Afspraak Maken",
+    "secondaryCta": "Certificaat Verifiëren"
+  },
+  "Services": {
+    "title": "Onze Diensten",
+    "subtitle": "Uitgebreide zorg voor elke diersoort",
+    "general": {
+      "title": "Algemene Consulten",
+      "description": "Complete gezondheidscontroles en preventieve zorg voor alle diersoorten"
+    },
+    "surgery": {
+      "title": "Chirurgische Ingrepen",
+      "description": "Ultramoderne chirurgische faciliteiten voor routine en complexe procedures"
+    },
+    "dental": {
+      "title": "Tandheelkundige Zorg",
+      "description": "Professionele tandenreiniging, extracties en mondgezondheidsonderhoud"
+    },
+    "vaccination": {
+      "title": "Vaccinaties",
+      "description": "Complete vaccinatieprogramma's afgestemd op elke diersoort en levensstijl"
+    },
+    "exotic": {
+      "title": "Exotische Dierenzorg",
+      "description": "Gespecialiseerde zorg voor reptielen, amfibieën, vogels en exotische zoogdieren"
+    },
+    "emergency": {
+      "title": "Spoedeisende Hulp",
+      "description": "24/7 spoedeisende diensten voor urgente medische situaties"
+    }
+  },
+  "About": {
+    "title": "Over Universalis Dierenzorg",
+    "subtitle": "Zorg voor alle wezens sinds 2010",
+    "description": "Gelegen in het hart van Nederland, Universalis Dierenzorg is een full-service dierenkliniek gewijd aan het bieden van uitzonderlijke zorg voor alle dieren. Ons team van ervaren dierenartsen is gespecialiseerd in de behandeling van honden, katten, vogels, reptielen, kleine zoogdieren en exotische huisdieren.",
+    "mission": "Onze missie is het leveren van meelevende, hoogwaardige veterinaire zorg terwijl we huisdiereigenaren opleiden over diergezondheid en welzijn.",
+    "values": {
+      "title": "Onze Waarden",
+      "compassion": "Medeleven voor elk wezen",
+      "excellence": "Excellentie in diergeneeskunde",
+      "education": "Educatie en preventie",
+      "innovation": "Innovatie in dierenzorg"
+    }
+  },
+  "Contact": {
+    "title": "Neem Contact Op",
+    "subtitle": "Wij staan klaar om te helpen met al uw dierenzorgbehoeften",
+    "form": {
+      "name": "Volledige Naam",
+      "namePlaceholder": "Uw volledige naam",
+      "email": "E-mailadres",
+      "emailPlaceholder": "u@voorbeeld.nl",
+      "phone": "Telefoonnummer",
+      "phonePlaceholder": "+31 6 12345678",
+      "subject": "Onderwerp",
+      "subjectPlaceholder": "Hoe kunnen we helpen?",
+      "animalType": "Diersoort",
+      "selectAnimal": "Selecteer diersoort",
+      "dog": "Hond",
+      "cat": "Kat",
+      "bird": "Vogel",
+      "reptile": "Reptiel",
+      "exotic": "Exotisch Huisdier",
+      "other": "Anders",
+      "message": "Bericht",
+      "messagePlaceholder": "Vertel ons over uw vraag...",
+      "agree": "Ik ga akkoord met de voorwaarden en het privacybeleid",
+      "submit": "Verstuur Bericht",
+      "submitting": "Verzenden...",
+      "success": "Dank u! Uw bericht is verzonden. Wij nemen spoedig contact met u op.",
+      "error": "Er is iets misgegaan. Probeer het opnieuw."
+    },
+    "info": {
+      "address": "Adres",
+      "addressValue": "Dierenplein 42, 1012 AB Amsterdam, Nederland",
+      "phone": "Telefoon",
+      "phoneValue": "+31 20 123 4567",
+      "email": "E-mail",
+      "emailValue": "info@universalis-dierenzorg.nl",
+      "hours": "Openingstijden",
+      "hoursValue": "Ma-Vr: 8:00-18:00, Za: 9:00-14:00"
+    }
+  },
+  "Verify": {
+    "title": "Verificeer Dierenarts Certificaat",
+    "subtitle": "Voer het certificaatnummer van uw dier in om de volledige medische geschiedenis te bekijken",
+    "form": {
+      "certificateNumber": "Certificaatnummer",
+      "placeholder": "Voer certificaatnummer in (bijv. VET-2024-001234)",
+      "submit": "Verifiëren",
+      "searching": "Zoeken..."
+    },
+    "results": {
+      "title": "Certificaat Details",
+      "animalInfo": "Dierinformatie",
+      "name": "Naam",
+      "species": "Soort",
+      "breed": "Ras",
+      "age": "Leeftijd",
+      "weight": "Gewicht",
+      "owner": "Eigenaar",
+      "registrationDate": "Registratiedatum",
+      "treatments": "Behandelgeschiedenis",
+      "treatmentDate": "Datum",
+      "treatmentType": "Behandeling",
+      "treatmentNotes": "Notities",
+      "treatmentCost": "Kosten",
+      "vaccines": "Vaccinatieoverzicht",
+      "vaccineName": "Vaccin",
+      "vaccineDate": "Datum Gegeven",
+      "vaccineNextDue": "Volgende Afspraak",
+      "totalCosts": "Totale Kosten",
+      "noResults": "Geen gegevens gevonden voor dit certificaatnummer. Controleer het nummer en probeer opnieuw."
+    },
+    "pdf": {
+      "medicalReport": "Medisch Rapport",
+      "professionalCare": "Professionele Diergeneeskundige Zorg",
+      "cert": "Cert:",
+      "animalInfo": "DIERINFORMATIE",
+      "ownerInfo": "INFORMATIE EIGENAAR",
+      "medicalReports": "MEDISCHE RAPPORTEN",
+      "vaccinations": "VACCINATIES",
+      "treatments": "BEHANDELINGEN",
+      "costSummary": "KOSTENOVERZICHT",
+      "name": "Naam:",
+      "speciesBreed": "Soort / Ras:",
+      "dateOfBirth": "Geboortedatum:",
+      "age": "Leeftijd:",
+      "weight": "Gewicht:",
+      "email": "E-mail:",
+      "phone": "Telefoon:",
+      "report": "Rapport #",
+      "veterinarian": "Dierenarts:",
+      "symptoms": "Symptomen:",
+      "diagnosis": "Diagnose:",
+      "treatment": "Behandeling:",
+      "prescriptions": "Recepten:",
+      "followUpDate": "Vervolgdatum:",
+      "notes": "Notities:",
+      "administered": "Toegediend:",
+      "nextDue": "Volgende Datum:",
+      "cost": "Kosten:",
+      "date": "Datum:",
+      "totalTreatments": "Totale Behandelingskosten:",
+      "totalVaccines": "Totale Vaccinatiekosten:",
+      "totalCost": "TOTALE KOSTEN:",
+      "pageOf": "Pagina"
+    }
+  },
+  "Testimonials": {
+    "title": "Wat Onze Klanten Zeggen",
+    "subtitle": "Vertrouwd door huisdiereigenaren in heel Nederland"
+  },
+  "Pricing": {
+    "title": "Onze Prijzen",
+    "subtitle": "Transparante prijzen voor kwaliteitszorg",
+    "consultation": "Algemeen Consult",
+    "vaccination": "Vaccinatiepakket",
+    "surgery": "Chirurgische Ingrepen",
+    "dental": "Tandenreiniging",
+    "emergency": "Spoedbezoek",
+    "exotic": "Exotisch Dier Consult",
+    "from": "Vanaf"
+  },
+  "FAQ": {
+    "title": "Veelgestelde Vragen",
+    "subtitle": "Vind antwoorden op veelgestelde vragen over onze diensten"
+  },
+  "Footer": {
+    "description": "Professionele veterinaire zorg voor alle dieren in Nederland. Honden, katten, vogels, reptielen en exotische huisdieren.",
+    "quickLinks": "Snelle Links",
+    "contact": "Contactgegevens",
+    "hours": "Openingstijden",
+    "copyright": "© 2024 Universalis Dierenzorg. Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "terms": "Servicevoorwaarden"
+  },
+  "Common": {
+    "learnMore": "Meer Info",
+    "bookNow": "Nu Boeken",
+    "callUs": "Bel Ons",
+    "currency": "€",
+    "years": "jaar",
+    "kg": "kg"
+  }
+}
