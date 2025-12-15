@@ -30,6 +30,7 @@ const medReportSchema = z.object({
   treatment: z.string().min(1, 'Treatment is required'),
   prescriptions: z.string().optional(),
   veterinarian: z.string().min(1, 'Veterinarian name is required'),
+  price: z.number().min(0, 'Price must be a positive number').optional(),
   followUpDate: z.string().optional(),
   notes: z.string().optional(),
 });
@@ -78,6 +79,7 @@ export async function POST(request: NextRequest) {
       treatment: validatedData.treatment,
       prescriptions: validatedData.prescriptions || '',
       veterinarian: validatedData.veterinarian,
+      price: validatedData.price,
       followUpDate: validatedData.followUpDate ? new Date(validatedData.followUpDate) : undefined,
       notes: validatedData.notes || '',
       createdBy: user._id,
