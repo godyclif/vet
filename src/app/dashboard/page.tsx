@@ -69,6 +69,7 @@ export default function Dashboard() {
     treatment: "",
     prescriptions: "",
     veterinarian: "",
+    price: "",
     followUpDate: "",
     notes: "",
   });
@@ -112,6 +113,7 @@ export default function Dashboard() {
       const submitData = {
         ...formData,
         weight: parseFloat(formData.weight),
+        price: formData.price ? parseFloat(formData.price) : undefined,
       };
 
       const res = await fetch("/api/med-reports", {
@@ -140,6 +142,7 @@ export default function Dashboard() {
           treatment: "",
           prescriptions: "",
           veterinarian: "",
+          price: "",
           followUpDate: "",
           notes: "",
         });
@@ -367,6 +370,19 @@ export default function Dashboard() {
                           setFormData({ ...formData, veterinarian: e.target.value })
                         }
                         required
+                      />
+                    </div>
+
+                    <div className="space-y-2">
+                      <label className="text-sm font-medium">Price</label>
+                      <Input
+                        type="number"
+                        step="0.01"
+                        placeholder="e.g., 150.00"
+                        value={formData.price}
+                        onChange={(e) =>
+                          setFormData({ ...formData, price: e.target.value })
+                        }
                       />
                     </div>
 
