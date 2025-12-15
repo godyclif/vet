@@ -8,6 +8,7 @@ export interface IMedReport extends Document {
   treatment: string;
   prescriptions?: string;
   veterinarian: string;
+  price?: number;
   followUpDate?: Date;
   notes?: string;
   createdBy: Types.ObjectId;
@@ -56,6 +57,10 @@ const MedReportSchema = new Schema<IMedReport>(
     veterinarian: {
       type: String,
       required: true,
+    },
+    price: {
+      type: Number,
+      min: 0,
     },
     followUpDate: {
       type: Date,
