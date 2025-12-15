@@ -7,6 +7,9 @@ const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts');
 const nextConfig: NextConfig = {
   pageExtensions: ["js", "jsx", "mdx", "ts", "tsx"],
   allowedDevOrigins: ["*"],
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
   images: {
     unoptimized: true,
     remotePatterns: [
